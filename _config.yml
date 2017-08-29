@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Simpleyyt
-subtitle: Yitao's Blog
+title: SIVEN
+subtitle: SIVEN's Blog
 description: Too simple, sometimes naive.
-author: Simpleyyt
+author: 大表哥
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -70,7 +70,7 @@ gems:
  - jekyll-sitemap
  - jekyll-feed
 
-alipay: http://p1.bpimg.com/567571/9a4a158daee8aa69.png
+alipay: http://i4.bvimg.com/609947/8e3485d1543709d2.jpg
 
 # ---------------------------------------------------------------
 # Site Information Settings
